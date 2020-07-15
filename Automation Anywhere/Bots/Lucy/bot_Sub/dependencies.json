@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Lucy\\Sub","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Lucy\\Sub","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Lucy\\Open Excel"]}
